@@ -1,3 +1,10 @@
+---
+layout: page
+title: Home
+id: home
+permalink: /
+---
+
 # Das ist mein Index
 
 **Von hier geht zu meinem gesamten Obsidianvault**
@@ -18,3 +25,9 @@
 
 
 Bei Fragen bitte an @ leobayer0710@icloud.com
+
+<style>
+  .wrapper {
+    max-width: 46em;
+  }
+</style>
