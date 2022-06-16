@@ -10,4 +10,4 @@ Künstler: [[Felix Nussbaum]]
 ![[ABA4F9B5-2908-49E3-B071-174BC76EA524.jpeg]]
 
 ### Interpretation:
-<img src="iCloud Drive/Library-of-Babel/assets/zDateien/ABA4F9B5-2908-49E3-B071-174BC76EA524.jpeg"
+<img src="/assets/image.jpg"/>
