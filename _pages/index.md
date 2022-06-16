@@ -1,16 +1,10 @@
----
-layout: page
-title: Home
-id: home
-permalink: /
----
-
 # Das ist mein Index
 
-**Von hier geht zu meinem gesamten Obsidianvault**
+**Von hier geht es zu meinem gesamten Obsidianvault**
 ## Aktuell:
-- [[Formel der EF Physik]]
+- [[Gedichtsanalyse]]
 - [[Triumph des Todes (Die Gerippe spielen zum Tanz)]]
+- [[Gastarbeiter]]
 
 ## [[Schule]]:
 - [[Deutsch]]
@@ -24,9 +18,4 @@ permalink: /
 - [[SoWi]]
 
 
-
-<style>
-  .wrapper {
-    max-width: 46em;
-  }
-</style>
+Bei Fragen bitte an @ leobayer0710@icloud.com
