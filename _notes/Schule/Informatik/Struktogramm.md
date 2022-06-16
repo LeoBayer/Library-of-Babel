@@ -1,6 +1,6 @@
 ---
 date: 25,05,2022
-title = Struktogramm
+title: Struktogramm
 ---
 Links: [[Schule]], [[Informatik]]
 
