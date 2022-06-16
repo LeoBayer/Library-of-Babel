@@ -24,7 +24,6 @@ permalink: /
 - [[SoWi]]
 
 
-Bei Fragen bitte an @ leobayer0710@icloud.com
 
 <style>
   .wrapper {
