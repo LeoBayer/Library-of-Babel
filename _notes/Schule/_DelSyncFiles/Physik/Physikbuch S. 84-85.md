@@ -2,7 +2,7 @@
 date: 25.05.2022
 title: Physikbuch S. 84-85
 ---
-Links: [[Schule]], [[Schule/Physik/Physik]]
+Links: [[Schule]], [[Physik]]
 
 [[Isaac Newton]]
 

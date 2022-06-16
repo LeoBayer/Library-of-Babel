@@ -4,7 +4,7 @@ title: Struktogramm
 ---
 Links: [[Schule]], [[Informatik]]
 
-[[Schule/Informatik/Struktogramm]]
+[[Struktogramm]]
 
 ![[7FE53E24-1637-4418-8D8C-5239DE26A6AF.jpeg]]
 ## Struktogramm der linearen Suche 

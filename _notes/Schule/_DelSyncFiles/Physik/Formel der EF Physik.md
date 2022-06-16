@@ -2,7 +2,7 @@
 date: 30.05.2022
 title: Formel der EF Physik
 ---
-Links: [[Schule]], [[Schule/Physik/Physik]]
+Links: [[Schule]], [[Physik]]
 
 [[Geschwindigkeit]]:
 $$ v=\frac {s}{t}$$

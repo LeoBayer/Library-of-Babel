@@ -1,7 +1,8 @@
 [[Schule]]
 # Dateien
 ```dataview
-LIST
-FROM "Schule/Physik"
-SORT file.ctime DESC 
+List
+From "Schule/Physik"
+Sort file.ctime desc
 ```
+

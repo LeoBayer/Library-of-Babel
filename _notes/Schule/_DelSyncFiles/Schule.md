@@ -4,7 +4,7 @@
 - [[Geschichte]]
 - [[Mathe]]
 - [[Musik]]
-- [[Schule/Physik/Physik]]
+- [[Physik]]
 - [[Religion]]
 - [[SoWi]]
 
